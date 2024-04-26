@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Oppenheimer triumphs, Ryan Gosling dazzles at 96th Academy Awards | CBC News",
+            "description": "Oppenheimer took home seven wins, the most of all nominated movies at the Oscars. The period piece won for film editing, cinematography, score, best supporting actor Robert Downey Jr., best actor Cillian Murphy, best director for Christopher Nolan and the top…",
+            "url": "http://www.cbc.ca/news/entertainment/oscars-2024-1.7139933",
+            "urlToImage": "https://i.cbc.ca/1.7139936.1710131524!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2074757416.jpg",
+            "publishedAt": "2024-03-11T05:22:13.2120736Z",
+            "content": "It was a night of surprises and upsets at Sunday's Academy Awards especially for what were arguably the year's two biggest films. \r\nThat was perhaps most clear with Oppenheimer, which took home seven… [+4774 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Joshua Rivera",
+            "title": "Jimmy Kimmel’s 2024 Oscars opening paid big respect to union workers",
+            "description": "Jimmy Kimmel ended his monologue of jokes about Oppenheimer, Poor Things, and other movies with a moment of union solidarity with WGA and SAG.",
+            "url": "https://www.polygon.com/24096752/oscars-2024-jimmy-kimmel-opening-monologue",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_rUvWEL5RkSnTwXFFB70mUnICoQ=/173x1172:7560x5040/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25328925/2066796882.jpg",
+            "publishedAt": "2024-03-10T23:53:29Z",
+            "content": "Hollywood at its heart, is a union town the host said"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Collier Jennings",
+            "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+            "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+            "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+            "publishedAt": "2022-09-01T18:03:14Z",
+            "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+        }
+    ]
+}
